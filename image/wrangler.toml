@@ -5,8 +5,8 @@ compatibility_date = "2023-01-03"
 usage_model = "bundled"
 
 [vars]
-DEDICATED_GATEWAY = 'https://kodadot-ultra.myfilebase.com'
-DEDICATED_BACKUP_GATEWAY = 'https://kodadot1.infura-ipfs.io'
+DEDICATED_GATEWAY = 'https://real.myfilebase.com'
+DEDICATED_BACKUP_GATEWAY = 'https://bronze-sophisticated-mongoose-117.mypinata.cloud'
 CLOUDFLARE_GATEWAY = 'https://cloudflare-ipfs.com'
 CF_IMAGE_ACCOUNT = '2ca8f087834868e70427f43cb09afcce'
 CF_IMAGE_ID = 'TbEOGfUBcfmfflqdtuuZVA'
