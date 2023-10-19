@@ -17,10 +17,10 @@ export const CACHE_MONTH = CACHE_DAY * 30;
 
 export const CACHE_TTL_BY_STATUS = {
   cacheTtlByStatus: {
-    '200-299': CACHE_MONTH,
-    '404': CACHE_SECOND,
-    '500-599': 0,
+    "200-299": CACHE_MONTH,
+    "404": CACHE_SECOND,
+    "500-599": 0,
   },
 };
 
-export const ORIGIN = 'https://kodadot.xyz';
+export const ORIGIN = "https://real.sovereignnature.com";
